@@ -6,7 +6,7 @@ An API for A Fictional Movie Rental Company
 ## Technologies
 - Express.js (Web Framework)
 - MongoDB (Database)
-- Mongoose (ORM)
+- Mongoose (ORM - Object–relational mapping)
 
 ## Getting Started
 - Clone project into your local environment
