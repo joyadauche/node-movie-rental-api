@@ -8,6 +8,7 @@ An API for A Fictional Movie Rental Company
 - MongoDB (Database)
 - Mongoose (ORM: Object–relational Mapping)
 - Winston (Logging)
+- Jest (Test Framework)
 
 ## Getting Started
 - Clone project into your local environment
