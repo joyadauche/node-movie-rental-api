@@ -9,6 +9,7 @@ An API for A Fictional Movie Rental Company
 - Mongoose (ORM: Object–relational Mapping)
 - Winston (Logging)
 - Jest (Test Framework)
+- Fawn (Two Phase Commits)
 
 ## Getting Started
 - Clone project into your local environment
