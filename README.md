@@ -7,7 +7,7 @@ An API for A Fictional Movie Rental Company
 - Express.js (Web Framework)
 - MongoDB (Database)
 - Mongoose (ORM: Object–relational Mapping)
-- Winston (Logging)
+- Winston (Logging Library)
 - Jest (Test Framework)
 - Fawn (Two Phase Commits)
 
