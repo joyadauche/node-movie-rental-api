@@ -10,7 +10,7 @@ An API for A Fictional Movie Rental Company
 - Winston (Logging Library)
 - Jest (Test Framework)
 - Fawn (Two Phase Commits)
-- JOI (Validation Library)
+- JOI (Data Validation Library)
 
 ## Getting Started
 - Clone project into your local environment
